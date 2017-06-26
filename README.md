@@ -1,5 +1,7 @@
 # IceCream-Game
-Javascript Practice
+
+
+Open index.html to play
 
 
 ::::Version 2::::
