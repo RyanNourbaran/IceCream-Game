@@ -5,13 +5,13 @@ function Score(cone) {
 
 
     this.show = function () {
-        textSize(35);
+        textSize(50);
         stroke('brown');
-        strokeWeight(2);
+        strokeWeight(0);
         textStyle(BOLD);
         fill(255,242,55);
         text(this.points,750,0,100,50);
-        textSize(35);
+        textSize(50);
         text('High-Score: ' +this.maxscore,0,1080);
     }
 
