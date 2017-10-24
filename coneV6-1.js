@@ -63,25 +63,26 @@ function Cone() {
 
                 if (icecream[z] == 'LightGreen') { //mint choc chip :)
                     fill(109, 36, 0);
-                    rect(this.x-60+this.xMove*z, this.ycenter[z]+29, 0.10*this.size, 0.10*this.size);
-                    rect(this.x+50+this.xMove*z, this.ycenter[z]+50, 0.10*this.size, 0.10*this.size);
-                    rect(this.x+0+this.xMove*z, this.ycenter[z]-21, 0.10*this.size, 0.10*this.size);
-                    rect(this.x+20+this.xMove*z, this.ycenter[z]-45, 0.12*this.size, 0.12*this.size);
-                    rect(this.x-55+this.xMove*z, this.ycenter[z]-39, 0.12*this.size, 0.12*this.size);
-                    rect(this.x+15+this.xMove*z, this.ycenter[z]+21, 0.12*this.size, 0.12*this.size);
-                    rect(this.x-33+this.xMove*z, this.ycenter[z]+35, 0.12*this.size, 0.12*this.size);
-                    rect(this.x+80+this.xMove*z, this.ycenter[z]+10, 0.12*this.size, 0.12*this.size);
-                    rect(this.x+33+this.xMove*z, this.ycenter[z]-15, 0.10*this.size, 0.10*this.size);
-                    rect(this.x+0+this.xMove*z, this.ycenter[z]-70, 0.10*this.size, 0.10*this.size);
-                    rect(this.x-41+this.xMove*z, this.ycenter[z]-55, 0.10*this.size, 0.10*this.size);
-                    rect(this.x+20+this.xMove*z, this.ycenter[z]+59, 0.10*this.size, 0.10*this.size);
+                    rect(this.x-60-this.xMove*z, this.ycenter[z]+29, 0.10*this.size, 0.10*this.size);
+                    rect(this.x+50-this.xMove*z, this.ycenter[z]+50, 0.10*this.size, 0.10*this.size);
+                    rect(this.x+0-this.xMove*z, this.ycenter[z]-21, 0.10*this.size, 0.10*this.size);
+                    rect(this.x+20-this.xMove*z, this.ycenter[z]-45, 0.12*this.size, 0.12*this.size);
+                    rect(this.x-55-this.xMove*z, this.ycenter[z]-39, 0.12*this.size, 0.12*this.size);
+                    rect(this.x+15-this.xMove*z, this.ycenter[z]+21, 0.12*this.size, 0.12*this.size);
+                    rect(this.x-33-this.xMove*z, this.ycenter[z]+35, 0.12*this.size, 0.12*this.size);
+                    rect(this.x+80-this.xMove*z, this.ycenter[z]+10, 0.12*this.size, 0.12*this.size);
+                    rect(this.x+33-this.xMove*z, this.ycenter[z]-15, 0.10*this.size, 0.10*this.size);
+                    rect(this.x+0-this.xMove*z, this.ycenter[z]-70, 0.10*this.size, 0.10*this.size);
+                    rect(this.x-41-this.xMove*z, this.ycenter[z]-55, 0.10*this.size, 0.10*this.size);
+                    rect(this.x+20-this.xMove*z, this.ycenter[z]+59, 0.10*this.size, 0.10*this.size);
 
-                    rect(this.x+30+this.xMove*z, this.ycenter[z]+40, 0.05*this.size, 0.05*this.size);
-                    rect(this.x+30+this.xMove*z, this.ycenter[z]+30, 0.05*this.size, 0.05*this.size);
-                    rect(this.x-40+this.xMove*z, this.ycenter[z]+0, 0.05*this.size, 0.05*this.size);
-                    rect(this.x+70+this.xMove*z, this.ycenter[z]+25, 0.05*this.size, 0.05*this.size);
-                    rect(this.x+15+this.xMove*z, this.ycenter[z]-30, 0.05*this.size, 0.05*this.size);
-                    rect(this.x-60+this.xMove*z, this.ycenter[z]+10, 0.05*this.size, 0.05*this.size);
+                    rect(this.x+30-this.xMove*z, this.ycenter[z]+40, 0.05*this.size, 0.05*this.size);
+                    rect(this.x+30-this.xMove*z, this.ycenter[z]+30, 0.05*this.size, 0.05*this.size);
+                    rect(this.x-40-this.xMove*z, this.ycenter[z]+0, 0.05*this.size, 0.05*this.size);
+                    rect(this.x+70-this.xMove*z, this.ycenter[z]+25, 0.05*this.size, 0.05*this.size);
+                    rect(this.x+15-this.xMove*z, this.ycenter[z]-30, 0.05*this.size, 0.05*this.size);
+                    rect(this.x-60-this.xMove*z, this.ycenter[z]+10, 0.05*this.size, 0.05*this.size);
+
                 }
             }
         }
