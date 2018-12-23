@@ -1,5 +1,8 @@
 # IceCream-Game
 
+![alt text](https://github.com/RyanNourbaran/IceCream-Game/screenshot.png)
+
+
 
 Open index.html to play
 
