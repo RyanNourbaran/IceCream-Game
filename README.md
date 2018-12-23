@@ -37,8 +37,7 @@ cone has stripes but doesn't tilt/whipback;
 faster speed (12);
 made screen bigger
 
-::::Version 7????::::
--add lives??
--add walls that you lose lives if you hit?
--maybe scoops will fall if you bend too much?
--make width of game editable so it auto updates everything>????
+::::Version 7::::
+-added .kves
+-added walls that you lose lives if you hit
+-make width of game editable so it auto updates everything
