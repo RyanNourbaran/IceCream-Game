@@ -1,6 +1,6 @@
 # IceCream-Game
 
-![alt text](https://github.com/RyanNourbaran/IceCream-Game/screenshot.png)
+![alt text](https://github.com/RyanNourbaran/IceCream-Game/blob/master/screenshot.png)
 
 
 
